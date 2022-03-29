@@ -1,0 +1,6 @@
+.idea
+*.log
+!.gitignore
+.DS_Store
+target
+!target/wework-sdk-win-3.0.jar
